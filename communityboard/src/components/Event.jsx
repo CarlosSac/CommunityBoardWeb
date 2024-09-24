@@ -7,7 +7,7 @@ const Event = (props) => {
             <img src={props.image} alt={props.title} />
             <h5>{props.title}</h5>
             <a className='button' href={props.link}>
-                Learn More
+                View
             </a>
         </div>
     );

@@ -5,7 +5,7 @@ const App = () => {
     return (
         <div className='App'>
             <div className='App-header'>
-                <h1>Community Board</h1>
+                <h1>Best places to visit in Porto, Portugal</h1>
             </div>
             <Container />
         </div>
