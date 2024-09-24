@@ -2,7 +2,7 @@
 
 Submitted by: **Carlos Sac**
 
-This web app: **This webapp shows the past places to visit on POrto, Portugal**
+This web app: **This webapp shows the past places to visit in Prto, Portugal**
 
 Time spent: **6** hours spent in total
 
